@@ -1,4 +1,4 @@
-iumbody{
+body{
     background-color: cadetblue;
 }
 
@@ -19,7 +19,7 @@ p{
     text-align: center; margin-left: 20px;
 }
 #center{
-    float: right; padding: 100px; font-size: large; font-family: 'Lucida Sans';
+    float:left; padding: 100px; font-size: large; font-family: 'Lucida Sans';
 }
 #firstBlock{ 
     border: 20px; padding: 50px;margin: 100px; width: 50%; float: right ;font-size: larger;font-family:  Arial;
@@ -50,7 +50,7 @@ form {
 }
 
 .container1 {
-    padding: 40px;}
+    padding: 20px;}
 /* Style the input elements and the submit button */
 input[type=text],
 input[type=submit] {
